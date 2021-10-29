@@ -1,6 +1,6 @@
 <h1 align="center">About Me 😆</h1>
 
-<p align="center">Very New,  Currently In The Proccess Of Learning.</p>
+<p align="center">New,  Currently In The Proccess Of Learning.</p>
 
 <h3 align="center">Technologies I Use</h3>
 
